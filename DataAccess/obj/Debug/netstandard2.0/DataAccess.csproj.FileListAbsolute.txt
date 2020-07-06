@@ -1,0 +1,5 @@
+C:\Users\CAE7093\Source\Repos\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\CAE7093\Source\Repos\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\CAE7093\Source\Repos\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\CAE7093\Source\Repos\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\CAE7093\Source\Repos\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
